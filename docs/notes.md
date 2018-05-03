@@ -14,5 +14,9 @@
 * [ ] In addition to the whole map of "yarn" having its own crypto identity and history, each "piece" of yarn has the same metadata.
 * [ ] "Missing" entities can be replaced (loaded from the filesystem) or recreated from scratch.
 
-## A random blog about using `psc-package`
+## A random blog about using `psc-package` to set up skeleton
 https://qiita.com/kimagure/items/570e6f2bbce5b4724564
+
+## Getting Started links
+* [psc-package](https://github.com/purescript/psc-package)
+* [Official Getting Started \(Project Euler Problem 1, ignore the Bower stuff)](https://github.com/purescript/documentation/blob/master/guides/Getting-Started.md)
